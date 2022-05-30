@@ -1,0 +1,1 @@
+# Identifying-Ecwid-E-commerce-Platform-Vulnerabilities-Using-QA-Methodology
