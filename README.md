@@ -84,7 +84,7 @@ Testing will only continue to the next steps once these approvals are done.
    <pre> <b> Test Scenarios:</b></pre>
    
    <p float="left">
-     ![Capture](https://user-images.githubusercontent.com/57935394/172034986-15199f5f-8d79-44d9-9c40-e7766d50c0e7.PNG)
+    <img src="https://user-images.githubusercontent.com/57935394/172034986-15199f5f-8d79-44d9-9c40-e7766d50c0e7.PNG" width="250" />
   </p>
   
     <pre> <b> Test Cases Design: </b> </pre>
