@@ -107,7 +107,6 @@ Testing will only continue to the next steps once these approvals are done.
   </p>
 
 <pre> <b> Bug Reporting</b> </pre>
-  
    <p float="left">
      <img src="https://user-images.githubusercontent.com/57935394/172035731-c3038f3e-f772-40aa-8c19-93eea76bf558.PNG" width="250" />
   </p>
