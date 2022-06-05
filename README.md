@@ -1,12 +1,12 @@
 # Identifying-Ecwid-E-commerce-Platform-Vulnerabilities-Using-QA-Methodology
-# **OVERVIEW**
+**OVERVIEW**
 As part of my self-training purpose, I am Md. Rahat Hasan testing few functionalities of “Ecwid” on https://www.ecwid.com/ web application. 
 This document serves as high level test planning document with details on the scope of the project, test strategy, test schedule and resource requirements, test deliverables and schedule. 
 
 **SCOPE**
 The scope of the project includes testing the following features of ‘https://demo.ecwid.com/’ web application. 
 
-**INCLUSIONS** 
+**INCLUSIONS:** 
  	-Register 
 	-Login & Logout 
 	-Forgot Password 
@@ -28,16 +28,16 @@ The scope of the project includes testing the following features of ‘https://d
 	-Category Pages 
 From our understanding, we believe above functional areas need to be Tested. 
 
-**TEST ENVIRONMENT** 
+**TEST ENVIRONMENT:** 
 	-Device: Asus VivoBook S14
 	-Os: Windows 10 – Chrome, Edge 
 
-**EXCLUSIONS**
+**EXCLUSIONS:**
 	-All the features except that are mentioned under ‘Inclusions’ 
 	-Any third-party features or Payment gateways 
 	-Test Automation 
 
-**TEST STRATEGY**
+**TEST STRATEGY:**
 We have analyzed the “Ecwid” and has understood that we need to perform Functional Testing of all the functionalities mentioned in the above Scope section. 
 As part of Functional Testing, we will follow the below approach for Testing: 
 
