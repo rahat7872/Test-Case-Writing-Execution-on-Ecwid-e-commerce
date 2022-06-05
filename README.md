@@ -7,35 +7,35 @@ This document serves as high level test planning document with details on the sc
 The scope of the project includes testing the following features of ‘https://demo.ecwid.com/’ web application. 
 
 **INCLUSIONS:** 
- 	-Register 
-	-Login & Logout 
-	-Forgot Password 
-	-Search 
-	-Product Compare 
-	-Product Display Page 
-	-Add to Cart 
-	-Wish List 
-	-Shopping Cart 
-	-Currencies 
-	-Home Page 
-	-Checkout Page 
-	-My Account Page 
-	-Order History Page 
-	-Downloads Page 
-	-Contact Us Page 
-	-Menu Options 
-	-Footer Options 
-	-Category Pages 
+ 	- Register 
+	- Login & Logout 
+	- Forgot Password 
+	- Search 
+	- Product Compare 
+	- Product Display Page 
+	- Add to Cart 
+	- Wish List 
+	- Shopping Cart 
+	- Currencies 
+	- Home Page 
+	- Checkout Page 
+	- My Account Page 
+	- Order History Page 
+	- Downloads Page 
+	- Contact Us Page 
+	- Menu Options 
+	- Footer Options 
+	- Category Pages 
 From our understanding, we believe above functional areas need to be Tested. 
 
 **TEST ENVIRONMENT:** 
-	-Device: Asus VivoBook S14
-	-Os: Windows 10 – Chrome, Edge 
+	- Device: Asus VivoBook S14
+	- Os: Windows 10 – Chrome, Edge 
 
 **EXCLUSIONS:**
-	-All the features except that are mentioned under ‘Inclusions’ 
-	-Any third-party features or Payment gateways 
-	-Test Automation 
+	- All the features except that are mentioned under ‘Inclusions’ 
+	- Any third-party features or Payment gateways 
+	- Test Automation 
 
 **TEST STRATEGY:**
 We have analyzed the “Ecwid” and has understood that we need to perform Functional Testing of all the functionalities mentioned in the above Scope section. 
@@ -43,31 +43,31 @@ As part of Functional Testing, we will follow the below approach for Testing:
 
 Step#1 – Creation of Test Scenarios and Test Cases for the different features in scope. 
 We will apply several Black Box Test Designing techniques while creating Test Cases 
-	-Equivalence Class Partition 
-	-Boundary Value Analysis 
-	-Decision Table Testing 
-	-State Transition Testing 
-	-Use Case Testing 
+	- Equivalence Class Partition 
+	- Boundary Value Analysis 
+	- Decision Table Testing 
+	- State Transition Testing 
+	- Use Case Testing 
 
 We also use our expertise in creating Test Cases by applying the below: 
-	-Error Guessing 
-	-Exploratory Testing 
+	- Error Guessing 
+	- Exploratory Testing 
 We will prioritize the Test Cases 
 
 **TOOLS:**
 The following are the list of Tools we will be using in this Project: 
-•	XYZ Bug Tracking Tool 
-•	Mind map Tool 
-•	Snipping Screenshot Tool 
-•	Word and Excel documents 
+• XYZ Bug Tracking Tool 
+• Mind map Tool 
+• Snipping Screenshot Tool 
+• Word and Excel documents 
 
 **RISKS AND MITIGATIONS** 
 The following are the list of risks possible and the ways to mitigate them: 
-•	Risk: Non-Availability of a Resource 
-•	Mitigation: Backup Resource Planning 
-•	Risk: Build URL is not working 
-•	Mitigation: Resources will work on other tasks 
-•	Risk: Less time for Testing 
+• Risk: Non-Availability of a Resource 
+• Mitigation: Backup Resource Planning 
+• Risk: Build URL is not working 
+• Mitigation: Resources will work on other tasks 
+• Risk: Less time for Testing 
 
 
 
