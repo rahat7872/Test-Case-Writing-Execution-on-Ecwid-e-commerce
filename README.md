@@ -53,3 +53,29 @@ We also use our expertise in creating Test Cases by applying the below:
 	-Error Guessing 
 	-Exploratory Testing 
 We will prioritize the Test Cases 
+
+**TOOLS:**
+The following are the list of Tools we will be using in this Project: 
+•	XYZ Bug Tracking Tool 
+•	Mind map Tool 
+•	Snipping Screenshot Tool 
+•	Word and Excel documents 
+
+**RISKS AND MITIGATIONS** 
+The following are the list of risks possible and the ways to mitigate them: 
+•	Risk: Non-Availability of a Resource 
+•	Mitigation: Backup Resource Planning 
+•	Risk: Build URL is not working 
+•	Mitigation: Resources will work on other tasks 
+•	Risk: Less time for Testing 
+
+
+
+**APPROVALS**
+Team will send different types of documents for Client Approval like below:
+•	Test Plan
+•	Test Scenarios
+•	Test Cases
+•	Reports
+Testing will only continue to the next steps once these approvals are done.
+
