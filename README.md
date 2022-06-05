@@ -91,19 +91,18 @@ Testing will only continue to the next steps once these approvals are done.
   <p float="left">
   <img src=" https://user-images.githubusercontent.com/57935394/172035067-09dcc895-f651-4168-b86b-708e4238b8d3.PNG " width="500" />
  <img src="https://user-images.githubusercontent.com/57935394/172035069-883e36c2-74ac-4f48-97c5-106a54e25e33.PNG " width="500" />
-
   </p>
   
-  <pre> <b> Test Case Execution</b> </pre>
+  <pre> <b> Test Case Execution </b> </pre>
   
    <p float="left">
      <img src="https://user-images.githubusercontent.com/57935394/172035119-d8db0790-1413-43c7-be73-7c63aefc4561.PNG " width="500" />
        <img src="https://user-images.githubusercontent.com/57935394/172035126-f51d02e9-3273-442d-b507-4abefe83c30b.PNG " width="500" />
   </p>
-<pre> <b> Requirement Traceability Matrix</b> </pre>
+<pre> <b> Requirement Traceability Matrix </b> </pre>
   
    <p float="left">
-     <img src="https://user-images.githubusercontent.com/57936009/164335931-96f3e4ac-82c4-4ee5-9e09-f376c3008876.jpg" width="250" />
+     <img src="https://user-images.githubusercontent.com/57935394/172035646-430bb0fd-adec-4ef6-9783-b3b812eb1e9b.PNG" width="250" />
   </p>
 
 <pre> <b> Bug Reporting</b> </pre>
